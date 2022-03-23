@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🙋‍♂️ O mnie
+Jestem Jacek, mam 21 lat i jestem studentem drugiego roku na kierunku "Inżynieria systemów informatycznych" na Uniwersytecie Warmińsko-Mazurskim
 
-<!--
-**Vex0on/Vex0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Wcześniej uczyłem się: Pythona, MySQL, 
+- 🌱 Aktualnie uczę się: C#, .net, Entity Framework, UML
+- 📚 Moim celem nauki jest zostanie: ASP.NET Core Devem
+- 📚 Uwielbiam czytać kryminały, thrillery i książki fantasy
+- 💻 Jestem miłośnikiem gier komputerowych
 
-Here are some ideas to get you started:
+# 💻 Moje Projekty 
+Unity: [Cactus Runner](https://github.com/Vex0on/Unity/tree/main/Cactus_Runner_2D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C#: [Calculator](https://github.com/Vex0on/C_Sharp/blob/main/BasicCalc/Form1.cs) [TODO: zakładka przenosząca do kalkulatora naukowego]
+
+# Moje Statystyki
+
+![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on)
