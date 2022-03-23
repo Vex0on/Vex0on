@@ -3,7 +3,7 @@ Jestem Jacek, mam 21 lat i jestem studentem drugiego roku na kierunku "Inżynier
 
 - 🔭 Wcześniej uczyłem się: Pythona, MySQL, 
 - 🌱 Aktualnie uczę się: C#, .net, Entity Framework, UML
-- 📚 Moim celem nauki jest zostanie: ASP.NET Core Devem
+- 📚 Cel nauki: ASP.NET Core Dev
 - 📚 Uwielbiam czytać kryminały, thrillery i książki fantasy
 - 💻 Jestem miłośnikiem gier komputerowych
 
