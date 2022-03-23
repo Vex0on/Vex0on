@@ -14,4 +14,5 @@ C#: [Calculator](https://github.com/Vex0on/C_Sharp/blob/main/BasicCalc/Form1.cs)
 
 # Moje Statystyki
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on)](https://github.com/Vex0on/github-readme-stats)
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on)
