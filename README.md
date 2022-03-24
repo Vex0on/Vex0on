@@ -8,6 +8,8 @@ Jestem Jacek, mam 21 lat i jestem studentem drugiego roku na kierunku "Inżynier
 - 💻 Jestem miłośnikiem gier komputerowych
 
 # 💻 Moje Projekty 
+MySQL: [Baza Danych Kręgielni](https://github.com/Vex0on/bazy_g5JS/tree/main/__projekt_kregielnia) Projekt zaliczeniowy na Bazy danych
+
 Unity: [Cactus Runner](https://github.com/Vex0on/Unity/tree/main/Cactus_Runner_2D)
 
 C#: [Calculator](https://github.com/Vex0on/C_Sharp/blob/main/BasicCalc/Form1.cs) [TODO: zakładka przenosząca do kalkulatora naukowego]
