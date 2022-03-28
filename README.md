@@ -12,7 +12,7 @@ MySQL: [Baza Danych Kręgielni](https://github.com/Vex0on/bazy_g5JS/tree/main/__
 
 Unity: [Cactus Runner](https://github.com/Vex0on/Unity/tree/main/Cactus_Runner_2D)
 
-C#: [Calculator](https://github.com/Vex0on/C_Sharp/blob/main/BasicCalc/Form1.cs) [TODO: zakładka przenosząca do kalkulatora naukowego]
+Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Projekt grupowy (koło HYPER)
 
 # Moje Statystyki
 
