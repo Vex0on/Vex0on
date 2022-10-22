@@ -4,7 +4,6 @@ Jestem Jacek, mam 21 lat i jestem studentem drugiego roku na kierunku "Inżynier
 - 🔭 Umiem: Python, MySQL, PHP
 - 🌱 Aktualnie uczę się: C#, Symfony, Vue, Typescript 
 - 🌱 W planach do nauki: 
-- 📚 Cel nauki: PHP Dev/ASP.NET Core Dev
 - 📚 Uwielbiam czytać kryminały, thrillery i książki fantasy
 - 💻 Jestem miłośnikiem gier komputerowych
 
