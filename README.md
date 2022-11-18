@@ -16,5 +16,5 @@ Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Projekt grupowy (ko≈
 
 # Moje Statystyki
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on)](https://github.com/Vex0on/github-readme-stats)
-![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on)
+![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact)
