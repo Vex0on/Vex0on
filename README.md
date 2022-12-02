@@ -1,5 +1,5 @@
 # 🙋‍♂️ O mnie
-Jestem Jacek, mam 21 lat i jestem studentem drugiego roku na kierunku "Inżynieria systemów informatycznych" na Uniwersytecie Warmińsko-Mazurskim
+Jestem Jacek, mam 21 lat i jestem studentem trzeciego roku na kierunku "Inżynieria systemów informatycznych" na Uniwersytecie Warmińsko-Mazurskim
 
 - 🔭 Umiem: Python, MySQL, PHP
 - 🌱 Aktualnie uczę się: C#, Symfony, Vue, Typescript 
