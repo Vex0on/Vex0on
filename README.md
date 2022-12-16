@@ -20,8 +20,12 @@ Hi there, I'm Jacek, and I am 21yrs old computer science student from Poland. I'
 </a>
 
 
-<!-- - 🌱 Aktualnie uczę się: C#, Symfony, Vue, Typescript 
-- 🌱 W planach do nauki: 
+<!-- <h2> 🌱 Learning now: </h2>
+<p align="left">
+<a href=https://www.djangoproject.com/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
+</a>
+
 - 📚 Uwielbiam czytać kryminały, thrillery i książki fantasy
 - 💻 Jestem miłośnikiem gier komputerowych -->
 
