@@ -1,6 +1,9 @@
 # 🙋‍♂️ About me
 Hi there, I'm Jacek, and I am 21yrs old computer science student from Poland. I'm currently studying "IT systems engineering" at University of Warmia and Mazury in Olsztyn.
 
+- 📚 I love reading crime stories, thrillers and fantasy books
+- 💻 I am a computer games lover 
+
 <h2> ⚡Technologies I'm using :</h2>
 <p align="left">
 <a href=https://www.python.org>
@@ -20,21 +23,24 @@ Hi there, I'm Jacek, and I am 21yrs old computer science student from Poland. I'
 </a>
 
 
-<!-- <h2> 🌱 Learning now: </h2>
+<h2> 🌱 Learning backlog: </h2>
 <p align="left">
 <a href=https://www.djangoproject.com/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
 </a>
+<a href=https://https://vuejs.org//>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="35" height="35" />
+</a>
 
-- 📚 Uwielbiam czytać kryminały, thrillery i książki fantasy
-- 💻 Jestem miłośnikiem gier komputerowych -->
 
 # 💻 My Projects
 MySQL: [Baza Danych Kręgielni](https://github.com/Vex0on/bazy_g5JS/tree/main/__projekt_kregielnia) Projekt zaliczeniowy na Bazy danych
 
 Unity: [Cactus Runner](https://github.com/Vex0on/Unity/tree/main/Cactus_Runner_2D)
 
-Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Projekt grupowy (koło HYPER)
+Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Group Project (HYPER)
+
+[Inżynieria Oprogramowania:](https://github.com/Vex0on/ICC_15_00) Group Project (ICC)
 
 # My stats
 
