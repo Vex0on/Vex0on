@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Vex0on)
+
 # 🙋‍♂️ About me
 Hi there, I'm Jacek, and I am 21yrs old computer science student from Poland. I'm currently studying "IT systems engineering" at University of Warmia and Mazury in Olsztyn.
 
@@ -34,13 +36,13 @@ Hi there, I'm Jacek, and I am 21yrs old computer science student from Poland. I'
 
 
 # 💻 My Projects
-MySQL: [Baza Danych Kręgielni](https://github.com/Vex0on/bazy_g5JS/tree/main/__projekt_kregielnia) Projekt zaliczeniowy na Bazy danych
+MySQL: [Baza Danych Kręgielni](https://github.com/Vex0on/bazy_g5JS/tree/main/__projekt_kregielnia) Simple database project for Databases
 
-Unity: [Cactus Runner](https://github.com/Vex0on/Unity/tree/main/Cactus_Runner_2D)
+Unity: [Cactus Runner](https://github.com/Vex0on/Unity/tree/main/Cactus_Runner_2D) Simple 2d Endless runner game made in Unity
 
 Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Group Project (HYPER)
 
-[Inżynieria Oprogramowania:](https://github.com/Vex0on/ICC_15_00) Group Project (ICC)
+[Software Engineering:](https://github.com/Vex0on/ICC_15_00) Group Project (ICC)
 
 # My stats
 
