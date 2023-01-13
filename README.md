@@ -45,6 +45,5 @@ Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Group Project (HYPER
 [Software Engineering:](https://github.com/Vex0on/ICC_15_00) Group Project (ICC)
 
 # My stats
-
-![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on&show_icons=true&theme=tokyonight&include_all_commits)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact)
+![Statystyki](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vex0on&show_icons=true&theme=tokyonight&include_all_commits)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact)
