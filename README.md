@@ -11,6 +11,9 @@ Hi there, I'm Jacek, and I am 22yrs old computer science student from Poland. I'
 <a href=https://www.python.org>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
 </a>
+<a href=https://www.djangoproject.com/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
+</a>
 <a href=https://www.php.net/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
 </a>
@@ -20,6 +23,9 @@ Hi there, I'm Jacek, and I am 22yrs old computer science student from Poland. I'
 <a href=https://unity.com/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="35" height="35" />
 </a>
+<a href=https://www.docker.com/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="35" height="35" />
+</a>
 <a href=https://www.mysql.com/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="35" height="35" />
 </a>
@@ -27,12 +33,13 @@ Hi there, I'm Jacek, and I am 22yrs old computer science student from Poland. I'
 
 <h2> 🌱 Learning backlog: </h2>
 <p align="left">
-<a href=https://www.djangoproject.com/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
+<a href=https://www.postman.com/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="35" height="35" />
 </a>
-<a href=https://https://vuejs.org//>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="35" height="35" />
+<a href=https://www.typescriptlang.org/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="35" height="35" />
 </a>
+
 
 
 # 💻 My Projects
