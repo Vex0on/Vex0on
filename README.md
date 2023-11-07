@@ -14,8 +14,8 @@ Hi there, I'm Jacek, and I am 22yrs old computer science student from Poland. I'
 <a href=https://www.djangoproject.com/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
 </a>
-<a href=https://www.php.net/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
+<a href=https://www.java.com/pl/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" alt="java" width="35" height="35" />
 </a>
 <a href=https://learn.microsoft.com/pl-pl/dotnet/csharp/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35" />
@@ -36,8 +36,8 @@ Hi there, I'm Jacek, and I am 22yrs old computer science student from Poland. I'
 <a href=https://www.postman.com/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="35" height="35" />
 </a>
-<a href=https://www.typescriptlang.org/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="35" height="35" />
+<a href=https://angular.io>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" alt="Angular" width="35" height="35" />
 </a>
 
 
