@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Vex0on)
 
 # 🙋‍♂️ About me
-Hi there, I'm Jacek, and I am 23yrs old computer science student from Poland. I'm currently studying "Design of Information Systems and Computer Networks" at University of Warmia and Mazury in Olsztyn.
+Hi there, I'm Jacek, and I am 24yrs old computer science student from Poland.
 
 - 📚 I love reading crime stories, thrillers and fantasy books
 - 💻 I am a computer games lover 
@@ -53,5 +53,5 @@ Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Group Project (HYPER
 
 
 # My stats
-![Statystyki](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vex0on&show_icons=true&theme=tokyonight&include_all_commits)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact)
+![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on&show_icons=true&theme=tokyonight&layout=compact&include_all_commits)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact)
