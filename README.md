@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Vex0on)
 
 # 🙋‍♂️ About me
-Hi there, I'm Jacek, and I am 24yrs old computer science student from Poland.
+Hi there, I'm Jacek, and I am 25yrs old passionate programmer from Poland.
 
 - 📚 I love reading crime stories, thrillers and fantasy books
 - 💻 I am a computer games lover 
@@ -11,22 +11,22 @@ Hi there, I'm Jacek, and I am 24yrs old computer science student from Poland.
 <p align="left">
 <a href=https://nodejs.org/en>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
-</a>
+</a> 
 <a href=https://angular.io>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" alt="Angular" width="35" height="35" />
-</a>
+</a> 
 <a href=https://www.java.com/pl/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" alt="java" width="35" height="35" />
-</a>
+</a> 
 <a href=https://www.python.org>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
-</a>
+</a> 
 <a href=https://www.djangoproject.com/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="35" height="35" />
-</a>
+</a> 
 <a href=https://unity.com/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="35" height="35" />
-</a>
+</a> 
 
 
 <h2> 🌱 Learning backlog: </h2>
@@ -53,5 +53,7 @@ Unity: [RPG 2D](https://github.com/kropiak/hyper_project_1) Group Project (HYPER
 
 
 # My stats
+[![Statystyki](https://streak-stats.demolab.com?user=Vex0on&theme=aura-dark)](https://git.io/streak-stats)
+<!--
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=Vex0on&show_icons=true&theme=tokyonight&layout=compact&include_all_commits)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vex0on&theme=tokyonight&layout=compact) -->
